@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8mm"
+   height="8mm"
+   viewBox="0 0 8 8"
+   version="1.1"
+   id="svg5734"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="gasmixing.svg"
+   inkscape:export-filename="C:\Users\r11403eb\OneDrive - The University of Manchester\gasmixing.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5728" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="6.4081552"
+     inkscape:cy="15.499528"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#1f77b4;stroke-width:1.70390777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5502"
+       sodipodi:cx="7.9803944"
+       sodipodi:cy="296.47964"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.2190474"
+       sodipodi:radius="10.531046"
+       sodipodi:argument="-17.966028"
+       sodipodi:t0="0"
+       d="m 7.9803944,296.47964 c 0.8243757,1.00442 -0.9472096,1.60679 -1.6693991,1.37017 -1.9570888,-0.64122 -2.0264365,-3.23568 -1.0709344,-4.70896 1.709169,-2.63535 5.4696931,-2.59359 7.7485301,-0.77171 3.344287,2.67369 3.180957,7.73524 0.47247,10.7881 -3.067876,3.45794 -8.3492129,3.84609 -12.1763252,1.45082"
+       transform="matrix(0.29404058,0,0,0.29284686,3.2032841,207.10543)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#ff7f0e;stroke-width:1.70390779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5502-2"
+       sodipodi:cx="151.50191"
+       sodipodi:cy="201.33162"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.2239977"
+       sodipodi:radius="10.573807"
+       sodipodi:argument="-17.966028"
+       sodipodi:t0="0"
+       d="m 151.50191,201.33162 c 0.82437,1.00441 -0.94721,1.60678 -1.6694,1.37017 -1.95709,-0.64122 -2.02644,-3.23569 -1.07094,-4.70897 1.70917,-2.63535 5.4697,-2.59358 7.74853,-0.7717 3.34429,2.67369 3.18096,7.73524 0.47247,10.78809 -3.15185,3.5526 -8.60853,3.85033 -12.45407,1.27081"
+       transform="matrix(-0.14702029,0.25361282,-0.25464661,-0.14642342,76.450553,285.1588)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#2ca02c;stroke-width:1.70390779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5502-1"
+       sodipodi:cx="134.87094"
+       sodipodi:cy="185.45662"
+       sodipodi:expansion="1"
+       sodipodi:revolution="1.229715"
+       sodipodi:radius="10.623202"
+       sodipodi:argument="-17.966028"
+       sodipodi:t0="0"
+       d="m 134.87094,185.45662 c 0.82438,1.00441 -0.94721,1.60678 -1.6694,1.37017 -1.95709,-0.64122 -2.02644,-3.23569 -1.07093,-4.70897 1.70917,-2.63535 5.46969,-2.59358 7.74853,-0.7717 3.34429,2.67368 3.18096,7.73524 0.47247,10.7881 -3.25009,3.66332 -8.91133,3.84824 -12.76893,1.05116"
+       transform="matrix(-0.14702029,-0.25361282,0.25464661,-0.14642342,-23.460784,353.02216)" />
+  </g>
+</svg>
